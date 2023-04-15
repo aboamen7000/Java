@@ -32,7 +32,25 @@
   - [Switch Case](Beginner/src/10/)
 </details>
 
+<summary>Section 2</summary><br>
 
+  - [Logical Operators](Beginner/src/11/)
+  - [While Loop](Beginner/src/12/)
+  - [For Loop](Beginner/src/13/)
+  - [Nested Loops](Beginner/src/14/)
+  - [Arrays](Beginner/src/15/)
+  - [2D Array](Beginner/src/16/)
+  - [String Methods](Beginner/src/17/)
+  - [Wrapper Classes](Beginner/src/18/)
+  - [ArrayList](Beginner/src/19/)
+  - [2D ArrayList](Beginner/src/20/)
+  - [For each Loop](Beginner/src/21/)
+  - [Methods](Beginner/src/22/)
+  - [Overloaded Methods](Beginner/src/23/)
+  - [Printf](Beginner/src/24/)
+  - [Final Keyword](Beginner/src/25/)
+  - [Object-Oriented Programming](Beginner/src/26/)
+</details>
 </details>
 
 <details>
