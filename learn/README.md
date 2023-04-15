@@ -32,6 +32,7 @@
   - [Switch Case](Beginner/src/10/)
 </details>
 
+<details>
 <summary>Section 2</summary><br>
 
   - [Logical Operators](Beginner/src/11/)
